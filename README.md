@@ -6,10 +6,6 @@ A full-stack analytics platform built for the **Blackcoffer Data Visualization D
 
 🔗 https://foresight-fullstack-blond.vercel.app/
 
-## GitHub Repository
-
-🔗 https://github.com/Bharadwaj35498/foresight-fullstack
-
 ---
 
 ## Overview
